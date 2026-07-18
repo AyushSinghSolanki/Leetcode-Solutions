@@ -28,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0290-word-pattern](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0290-word-pattern) |
+## String
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
