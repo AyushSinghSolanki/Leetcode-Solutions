@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0228-summary-ranges) |
