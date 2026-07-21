@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0289-game-of-life) |
 ## Matrix
 |  |
