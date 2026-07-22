@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0289-game-of-life) |
 ## Math
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0068-text-justification](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0290-word-pattern) |
 ## Sliding Window
