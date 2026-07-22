@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0290-word-pattern) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
