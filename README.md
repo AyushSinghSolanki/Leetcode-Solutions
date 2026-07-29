@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
