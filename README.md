@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0289-game-of-life](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1480-running-sum-of-1d-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
