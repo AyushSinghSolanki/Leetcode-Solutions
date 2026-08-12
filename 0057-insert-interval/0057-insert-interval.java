@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
 
@@ -10,7 +8,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
 
             if (intervals[i][1] < newInterval[0]) {
-
                 ans.add(intervals[i]);
 
             } else if (intervals[i][0] > newInterval[1]) {
