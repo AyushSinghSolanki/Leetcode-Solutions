@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0027-remove-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Stack
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0027-remove-element) |
