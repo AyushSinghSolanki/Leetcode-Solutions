@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0875-koko-eating-bananas](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Newton's Method
 |  |
 | ------- |
