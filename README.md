@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0228-summary-ranges) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 ## Newton's Method
 |  |
 | ------- |
