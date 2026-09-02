@@ -1,41 +1,29 @@
-import java.util.*;
 
 class Solution {
-    public List<String> letterCombinations(String digits) {
-        List<String> result = new ArrayList<>();
-
-        if (digits == null || digits.length() == 0) {
-            return result;
-        }
-
-        String[] map = {
-            "", "", "abc", "def", "ghi",
-            "jkl", "mno", "pqrs", "tuv", "wxyz"
-        };
-
-        backtrack(digits, 0, new StringBuilder(), result, map);
-
-        return result;
-    }
-
-    private void backtrack(String digits, int index,
-                           StringBuilder current,
-                           List<String> result,
-                           String[] map) {
-
-        // Base case
-        if (index == digits.length()) {
-            result.add(current.toString());
+     static void solve(String digits, int index, String[] mapping, ArrayList<String> result,StringBuilder output ){
+        //base case
+        if(index >= digits.length()){
+            result.add(output.toString());
             return;
         }
+        int value = digits.charAt(index) - '0';
+        String mappedString = mapping[value];
 
-        int digit = digits.charAt(index) - '0';
-        String letters = map[digit];
-
-        for (char ch : letters.toCharArray()) {
-            current.append(ch);
-            backtrack(digits, index + 1, current, result, map);
-            current.deleteCharAt(current.length() - 1);
+        for(int i =0; i<mappedString.length(); i++){
+            output.append(mappedString.charAt(i));
+         solve(digits, index+1, mapping, result, output);
+         output.deleteCharAt(output.length()-1);
         }
+     }
+
+
+    public List<String> letterCombinations(String digits) {
+    String [] mapping = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
+    ArrayList<String> result = new ArrayList<>();
+    int index = 0;
+    StringBuilder output = new  StringBuilder();
+
+     solve(digits, index, mapping, result, output);
+     return result;
     }
 }
