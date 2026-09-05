@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0078-subsets) |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0078-subsets) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
