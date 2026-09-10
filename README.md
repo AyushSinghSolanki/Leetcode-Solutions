@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
