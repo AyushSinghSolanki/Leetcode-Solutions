@@ -297,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
