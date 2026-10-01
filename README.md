@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [1920-build-array-from-permutation](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
