@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
