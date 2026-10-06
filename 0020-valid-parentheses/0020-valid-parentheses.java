@@ -6,12 +6,12 @@ class Solution {
         Stack<Character> stack = new Stack<>();
 
         for (char ch : s.toCharArray()) {
-
-            // Opening brackets
+                // Step 1  : bracket ka starting wala part push krdo stack me 
             if (ch == '(' || ch == '{' || ch == '[') {
                 stack.push(ch);
             } 
-            // Closing brackets
+            // ab check krooo jo ending wala part aa rha h vo sack me present h ke nhiiii
+            // or uske top se compare krao jo part aa rha h uska closing part top me ke nhii
             else {
 
                 if (stack.isEmpty()) {
@@ -33,6 +33,8 @@ class Solution {
                 stack.pop();
             }
         }
+
+        // agr stack khali hai  mtlb sucessfully all saarii pair presnen the or ye ek valid ans thaaa 
 
         return stack.isEmpty();
     }
