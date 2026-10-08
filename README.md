@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
