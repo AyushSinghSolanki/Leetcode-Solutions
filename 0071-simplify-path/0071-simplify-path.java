@@ -1,33 +1,51 @@
+
+
 class Solution {
     public String simplifyPath(String path) {
 
-        Stack <String> stack = new Stack <>();
-         String [] parts = path.split("/");
+        // Stack banaya folders store karne ke liye
+        Deque<String> st = new ArrayDeque<>();
 
-         for(String part : parts){
-            if (part.equals("") || part.equals(".")) {
+        // Path ko "/" ke basis par tod diya
+        String[] parts = path.split("/");
+
+        // Har part ko ek-ek karke check karenge
+        for (String part : parts) {
+
+            // Empty string ya "." ko ignore kar do
+            if (part.isEmpty() || part.equals(".")) {
                 continue;
-             }
+            }
 
-             else if(part.equals("..")){
-                if (!stack.isEmpty()){
-                    stack.pop();
+            // ".." ka matlab ek folder peeche jaana
+            else if (part.equals("..")) {
+
+                // Stack empty nahi hai toh last folder hata do
+                if (!st.isEmpty()) {
+                    st.pop();
                 }
-             }
+            }
 
-               else {
-                stack.push(part);
-            }    
-
-
-         }
-
-          StringBuilder result = new StringBuilder();
-
-          for (String dir : stack) {
-            result.append("/").append(dir);
+            // Normal folder hai toh stack mein daal do
+            else {
+                st.push(part);
+            }
         }
-              
-        return result.length() == 0 ? "/" : result.toString();
+
+        // Final path banane ke liye StringBuilder
+        StringBuilder result = new StringBuilder();
+
+        // Stack mein bache folders ko reverse order mein nikalo
+        while (!st.isEmpty()) {
+            result.insert(0, "/" + st.pop());
+        }
+
+        // Agar koi folder nahi bacha toh "/" return karo
+        if (result.length() == 0) {
+            return "/";
+        }
+
+        return result.toString();
     }
 }
+
