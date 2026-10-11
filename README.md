@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0895-maximum-frequency-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 ## String
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0394-decode-string) |
+| [0895-maximum-frequency-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0895-maximum-frequency-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 ## Two Pointers
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0895-maximum-frequency-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 ## Treap
 |  |
 | ------- |
