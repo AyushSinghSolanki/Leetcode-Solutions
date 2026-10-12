@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -165,12 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0895-maximum-frequency-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+| [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -354,4 +358,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
