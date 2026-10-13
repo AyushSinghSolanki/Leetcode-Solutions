@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
