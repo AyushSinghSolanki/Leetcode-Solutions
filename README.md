@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0895-maximum-frequency-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0895-maximum-frequency-stack](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -362,5 +365,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/AyushSinghSolanki/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
